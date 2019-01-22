@@ -31,7 +31,7 @@ const second = {
   'gender': 'M',
   'speak': function(){
     return 'Hello! My name is Kennan!';
-  }
+  },
 };
 const third = {
   'id': 3,
@@ -52,7 +52,7 @@ const fifth = {
   'gender': 'F',
   'product': function(x, y){
     return x * y;
-  }
+  },
 }
 
 // ==== Challenge 2: Reading Object Data ==== 
